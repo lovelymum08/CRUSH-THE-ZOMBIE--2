@@ -1,2 +1,2 @@
-# CRUSH-THE-ZOMBIE--2
-game
+# zombie-crush-2
+project solution for c30
